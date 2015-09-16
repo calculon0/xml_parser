@@ -1,3 +1,4 @@
-click on 'Parse XML file' to parse the code_challenge_listings.xml file and insert into the db
-run rake test to run tests
-lacking 100% code coverage for tests, and doesn't use fixtures
+* `rackup` to start server
+* click on 'Parse XML file' to parse the code_challenge_listings.xml file and insert into the db
+* run rake test to run tests
+* lacking 100% code coverage for tests, and doesn't use fixtures
